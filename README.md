@@ -1,5 +1,3 @@
-### PROJETO BASE
+## PROJETO ADICIOANDO REPOSITÓRIOS GITHUB
 
-## DEPENDENCIAS PARA ADICIONAR AO PROJETO
-
-`react-router-dom` e `styled-components`
+### Utilizando api do github para adicionae e listar respositórios reais
