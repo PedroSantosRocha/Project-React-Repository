@@ -1,3 +1,3 @@
-## PROJETO ADICIOANDO REPOSITÓRIOS GITHUB
+## APLICAÇÃO - ADICIOANDO REPOSITÓRIOS GITHUB
 
-### Utilizando api do github para adicionae e listar respositórios reais
+### Utilizando API do Github para adicionar e listar respositórios reais
