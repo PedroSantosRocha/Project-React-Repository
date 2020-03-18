@@ -16,7 +16,7 @@ export const Owner = styled.header`
   align-items: center;
 
   a {
-    color: #7951c1;
+    color: #6666ff;
     font-size: 16px;
     text-decoration: none;
   }
